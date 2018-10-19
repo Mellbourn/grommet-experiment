@@ -3589,10 +3589,10 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.4:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
   integrity sha1-Dovf5NHduIVNZOBOp8AOKgJuVlg=
 
-grommet-icons@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/grommet-icons/-/grommet-icons-1.1.0.tgz#45d72bc57612e548a384f5d4236b0976a383eea6"
-  integrity sha512-ThIWmabuGzwSwsuTFAJWuFHzjdQShRzotjUGwcuvKAGTovt1v9dNNY4ZJFJZacEMoWhnjMdjZ2FREgZYTMaGkw==
+grommet-icons@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/grommet-icons/-/grommet-icons-3.1.0.tgz#8bba65157c96aeb87bd6bdf7c162a1aba7005db1"
+  integrity sha512-o7cek/FxvfedW8lZ0bHOVLxWXw89erAtpUtNTORXGRdkdPTKutARH+2csjLHE40zJ2AhqTTcgYCW4euKuq5bRQ==
 
 grommet@^2.0.0-beta.4:
   version "2.0.0-beta.7"
